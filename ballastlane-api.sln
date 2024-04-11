@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ballastlane-api", "ballastlane-api.csproj", "{87A6F181-3CBF-442B-99A4-5F4AABBFC004}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87A6F181-3CBF-442B-99A4-5F4AABBFC004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A6F181-3CBF-442B-99A4-5F4AABBFC004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A6F181-3CBF-442B-99A4-5F4AABBFC004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A6F181-3CBF-442B-99A4-5F4AABBFC004}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38A096CC-3ED2-4B64-ADAC-649FFC152E3E}
+	EndGlobalSection
+EndGlobal
