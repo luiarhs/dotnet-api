@@ -1,0 +1,10 @@
+replicaCount: 3
+
+image:
+  repository: your-dotnet-api-image
+  tag: latest
+
+service:
+  type: LoadBalancer
+  externalPort: 80
+  internalPort: 80
